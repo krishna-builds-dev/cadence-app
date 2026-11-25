@@ -11,10 +11,7 @@ export default function HeroSection({ onNavigate }: HeroSectionProps) {
     onNavigate(isAuthenticated ? 'dashboard' : 'signup');
   };
 
-  const scrollToDemo = () => {
-    const el = document.getElementById('how-it-works');
-    el?.scrollIntoView({ behavior: 'smooth' });
-  };
+
 
   return (
     <section className="relative w-full max-w-7xl mx-auto px-margin-mobile lg:px-margin pt-10 pb-8 md:pt-16 md:pb-12 flex flex-col items-center text-center">
@@ -51,13 +48,7 @@ export default function HeroSection({ onNavigate }: HeroSectionProps) {
             {isAuthenticated ? 'dashboard' : 'arrow_outward'}
           </span>
         </button>
-        {/* <button
-          onClick={scrollToDemo}
-          className="w-full sm:w-auto px-6 py-3.5 rounded-full bg-surface-container border border-white/10 text-on-surface font-headline-sm text-xs font-semibold flex items-center justify-center gap-2 hover:bg-surface-container-high transition-colors cursor-pointer"
-        >
-          <span>See Live Workflow</span>
-          <span className="material-symbols-outlined text-[16px] text-secondary">arrow_downward</span>
-        </button> */}
+       
       </div>
 
       {/* Social Proof */}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "cdoc_1",
+    "name": "Sarah Jenkins — Tier 1 Performance Retainer Agreement",
+    "type": "contract",
+    "client": "Sarah Jenkins",
+    "clientId": "c101",
+    "date": "Nov 12, 2026",
+    "status": "signed",
+    "size": "142 KB",
+    "amount": "$1,500/mo",
+    "notes": "Comprehensive 1-on-1 Performance & Longevity Coaching Retainer.",
+    "signature": {
+      "signedBy": "Sarah Jenkins",
+      "signedAt": "Nov 12, 2026 · 10:15 AM",
+      "signatureType": "type",
+      "signatureData": "Sarah Jenkins",
+      "certificateHash": "CAD-SIGN-SJ101-VAULT"
+    },
+    "content": "CADENCE 1-ON-1 CLIENT PERFORMANCE AGREEMENT\n\nParties: Julian Vance (Lead Coach) & Sarah Jenkins (Client).\n\n1. SCOPE OF PROTOCOL: Dedicated metabolic periodization, continuous glucose monitoring analysis, personalized macronutrient architecture, weekly 1-on-1 telehealth consultations, and rapid asynchronous feedback.\n2. RETAINER TERMS: $1,500.00 / month recurring membership debited automatically on the 15th of each month.\n3. PRIVACY & SECURITY: All client biometrics, dietary logs, and health panels are encrypted and strictly confidential.\n\nStatus: Fully executed & active."
+  },
+  {
+    "id": "cdoc_2",
+    "name": "Sarah Jenkins — Comprehensive Metabolic Protocol v2.4",
+    "type": "proposal",
+    "client": "Sarah Jenkins",
+    "clientId": "c101",
+    "date": "Nov 15, 2026",
+    "status": "signed",
+    "size": "385 KB",
+    "amount": "Included",
+    "notes": "Active nutritional protocol with carb-cycling schedule and supplement stack.",
+    "content": "PERSONALIZED PERFORMANCE ARCHITECTURE v2.4\n\nClient: Sarah Jenkins\nCoach: Julian Vance\n\n- Daily Calorie Target: 2,150 kcal (High Satiety)\n- Protein Floor: 145g (2.2g/kg)\n- Carb Periodization: 210g Training Days / 130g Recovery Days\n- Fats: 55g Essential Lipids\n- Morning Fasting Protocol: 500ml water + electrolytes upon waking."
+  },
+  {
+    "id": "cdoc_3",
+    "name": "Sarah Jenkins — Quest Diagnostics Blood Biomarker Panel",
+    "type": "medical",
+    "client": "Sarah Jenkins",
+    "clientId": "c101",
+    "date": "Oct 28, 2026",
+    "status": "signed",
+    "size": "1.2 MB",
+    "amount": "Lab Report",
+    "notes": "Fasting insulin: 4.8 uIU/mL, HbA1c: 5.2%, hs-CRP: 0.4 mg/L (Optimal baseline).",
+    "content": "CLINICAL LABORATORY REPORT\n\nPatient: Sarah Jenkins | Ordering Provider: Cadence Telehealth\nDate Collected: Oct 28, 2026\n\nKey Biomarkers:\n- Fasting Blood Glucose: 89 mg/dL (Reference: 70-99)\n- HbA1c: 5.2% (Optimal: <5.4%)\n- Fasting Insulin: 4.8 uIU/mL (Optimal: <6.0)\n- hs-CRP: 0.4 mg/L (Low cardiovascular risk: <1.0)\n- Vitamin D (25-OH): 62 ng/mL (Optimal: 50-80)\n\nInterpretation: Highly favorable metabolic flexibility and low systemic inflammation."
+  },
+  {
+    "id": "cdoc_4",
+    "name": "Sarah Jenkins — Body Recomp DEXA Scan Report",
+    "type": "medical",
+    "client": "Sarah Jenkins",
+    "clientId": "c101",
+    "date": "Nov 02, 2026",
+    "status": "signed",
+    "size": "2.4 MB",
+    "amount": "Diagnostic",
+    "notes": "Baseline body composition: 21.4% body fat, 49.2 kg lean mass.",
+    "content": "WHOLE BODY DEXA COMPOSITION SCAN\n\nClient: Sarah Jenkins | Scan Date: Nov 02, 2026\nTotal Body Weight: 64.5 kg\n- Total Body Fat: 21.4% (13.8 kg)\n- Lean Mass: 48.2 kg\n- Bone Mineral Density (BMD): 1.24 g/cm2 (T-Score: +1.2 Normal)\n- Visceral Adipose Tissue (VAT): 38 cm2 (Minimal / Healthy)"
+  },
+  {
+    "id": "cdoc_5",
+    "name": "Sarah Jenkins — Monthly Retainer Invoice #INV-2026-11",
+    "type": "invoice",
+    "client": "Sarah Jenkins",
+    "clientId": "c101",
+    "date": "Nov 20, 2026",
+    "status": "pending",
+    "size": "96 KB",
+    "amount": "$1,500",
+    "notes": "November 2026 performance coaching retainer fee & CGM telemetry analytics.",
+    "content": "CADENCE PERFORMANCE INVOICE\n\nInvoice #: INV-2026-11\nDate: Nov 20, 2026\nDue Date: Nov 30, 2026\nClient: Sarah Jenkins\nCoach: Julian Vance\n\nItemized Services:\n- Cadence Tier-1 Performance Retainer (Nov 2026): $1,500.00\n- Real-time Dexcom CGM Telemetry Monitoring: Included\n- Daily Macro & Biometric Feedback Loop: Included\n\nTotal Due: $1,500.00 USD\nPayment Methods: Visa/Mastercard/Amex, Apple Pay, ACH Direct Debit."
+  }
+]

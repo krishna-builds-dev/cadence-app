@@ -1,0 +1,50 @@
+[
+  {
+    "id": "cmt_1",
+    "clientId": "c101",
+    "client": "Sarah Jenkins",
+    "coach": "Julian Vance",
+    "type": "1-on-1 Biometrics & Strategy",
+    "date": "Nov 26, 2026",
+    "time": "11:00 AM",
+    "duration": "45 min",
+    "status": "upcoming",
+    "notes": "Weekly biometrics check, CGM glucose review & body recomp phase 2 adjustments."
+  },
+  {
+    "id": "cmt_2",
+    "clientId": "c101",
+    "client": "Sarah Jenkins",
+    "coach": "Julian Vance",
+    "type": "Macro Periodization Review",
+    "date": "Dec 03, 2026",
+    "time": "11:00 AM",
+    "duration": "30 min",
+    "status": "upcoming",
+    "notes": "Month 2 caloric adjustments and high-carb training day timing optimization."
+  },
+  {
+    "id": "cmt_3",
+    "clientId": "c101",
+    "client": "Sarah Jenkins",
+    "coach": "Julian Vance",
+    "type": "Onboarding & Metabolic Intake",
+    "date": "Nov 12, 2026",
+    "time": "11:00 AM",
+    "duration": "60 min",
+    "status": "completed",
+    "notes": "Baseline established. Reviewed intake questionnaire, Whoop sync, and initial protocol targets."
+  },
+  {
+    "id": "cmt_4",
+    "clientId": "c101",
+    "client": "Sarah Jenkins",
+    "coach": "Julian Vance",
+    "type": "Blood Biomarker Calibration Call",
+    "date": "Nov 05, 2026",
+    "time": "02:00 PM",
+    "duration": "45 min",
+    "status": "completed",
+    "notes": "Reviewed Quest Diagnostics blood panel. Fasting insulin and HbA1c optimal."
+  }
+]

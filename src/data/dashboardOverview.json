@@ -1,0 +1,114 @@
+{
+  "kpiSummary": {
+    "monthlyRevenue": 18450,
+    "revenueGrowth": "+22.4%",
+    "avgRetainer": "$658.90",
+    "activeRetainers": 28,
+    "maxRetainers": 45,
+    "retentionRate": "98.2%",
+    "netGrowth": "+4 Net this mo",
+    "healthIndex": 94.8,
+    "healthBenchmark": "+3.2% vs industry elite cohort benchmark",
+    "urgentAlertsCount": 2,
+    "urgentAlertsSummary": "1 dark client • 1 metabolic plateau trigger"
+  },
+  "timeRangeData": {
+    "7D": {
+      "revenue": "$4,612",
+      "growth": "+5.8%",
+      "compliance": "96.2%",
+      "chartPoints": [
+        { "label": "Mon", "value": 17200, "active": 27 },
+        { "label": "Tue", "value": 17450, "active": 27 },
+        { "label": "Wed", "value": 17800, "active": 28 },
+        { "label": "Thu", "value": 18100, "active": 28 },
+        { "label": "Fri", "value": 18250, "active": 28 },
+        { "label": "Sat", "value": 18350, "active": 28 },
+        { "label": "Sun", "value": 18450, "active": 28 }
+      ]
+    },
+    "30D": {
+      "revenue": "$18,450",
+      "growth": "+22.4%",
+      "compliance": "94.8%",
+      "chartPoints": [
+        { "label": "Week 1", "value": 15100, "active": 25 },
+        { "label": "Week 2", "value": 16200, "active": 26 },
+        { "label": "Week 3", "value": 17400, "active": 27 },
+        { "label": "Week 4", "value": 18450, "active": 28 }
+      ]
+    },
+    "90D": {
+      "revenue": "$51,200",
+      "growth": "+34.1%",
+      "compliance": "93.4%",
+      "chartPoints": [
+        { "label": "Sep", "value": 13500, "active": 22 },
+        { "label": "Oct", "value": 15800, "active": 25 },
+        { "label": "Nov", "value": 18450, "active": 28 }
+      ]
+    },
+    "YTD": {
+      "revenue": "$164,800",
+      "growth": "+78.5%",
+      "compliance": "92.8%",
+      "chartPoints": [
+        { "label": "Jun", "value": 11200, "active": 18 },
+        { "label": "Jul", "value": 12800, "active": 20 },
+        { "label": "Aug", "value": 13500, "active": 22 },
+        { "label": "Sep", "value": 15100, "active": 24 },
+        { "label": "Oct", "value": 16900, "active": 26 },
+        { "label": "Nov", "value": 18450, "active": 28 }
+      ]
+    }
+  },
+  "tierDistribution": [
+    {
+      "tier": "Tier 1 Protocol",
+      "price": "$1,800/mo",
+      "count": 4,
+      "percentage": 39,
+      "color": "#ffb4a3"
+    },
+    {
+      "tier": "Tier 2 Hypertrophy",
+      "price": "$1,200/mo",
+      "count": 6,
+      "percentage": 39,
+      "color": "#e85a2b"
+    },
+    {
+      "tier": "Tier 3 Periodization",
+      "price": "$650/mo",
+      "count": 18,
+      "percentage": 22,
+      "color": "#4edea3"
+    }
+  ],
+  "checkinHeatmap": [
+    { "day": "Mon", "activeIndices": [0, 1, 2, 4, 5, 6, 7, 8, 9, 10], "peak": false },
+    { "day": "Tue", "activeIndices": [1, 2, 3, 5, 6, 7, 8, 9, 11], "peak": false },
+    { "day": "Wed", "activeIndices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11], "peak": true },
+    { "day": "Thu", "activeIndices": [2, 3, 4, 6, 7, 8, 9, 10], "peak": false },
+    { "day": "Fri", "activeIndices": [0, 1, 3, 4, 5, 7, 8, 9], "peak": false },
+    { "day": "Sat", "activeIndices": [1, 2, 4, 5, 6, 8, 10], "peak": false },
+    { "day": "Sun", "activeIndices": [0, 2, 3, 5, 6, 7, 9, 11], "peak": false }
+  ],
+  "copilotQAs": [
+    {
+      "trigger": "compliance",
+      "query": "Why did compliance dip?",
+      "response": "Compliance dip was isolated to Alexander Wright (-58% due to cross-continental travel) and Devon Lane (missed weekend log). Remaining 26 retainers maintain 94.8% adherence."
+    },
+    {
+      "trigger": "alexander",
+      "query": "Summarize Alexander's log",
+      "response": "Alexander Wright logged 84h ago in London. Habit score plunged from 88% to 42%. Auto-escalation window has 14h remaining before scheduled client check-in nudge."
+    },
+    {
+      "trigger": "upsell",
+      "query": "Show upsell candidates",
+      "response": "Sarah Jenkins (Tier 3, 98% compliance across 60 days) and Meera Kulkarni are prime candidates to transition into Tier 1 Performance Retainers (+ $1,150/mo MRR delta)."
+    }
+  ]
+}

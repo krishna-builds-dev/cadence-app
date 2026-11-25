@@ -1,0 +1,190 @@
+[
+  {
+    "id": "tmpl_standard_retainer",
+    "name": "Standard 1-on-1 Performance Retainer",
+    "type": "proposal",
+    "category": "Retainers",
+    "description": "Comprehensive monthly high-performance coaching agreement with continuous glucose monitoring, weekly video reviews, and Stripe auto-debit.",
+    "isPreset": true,
+    "createdAt": "Standard Preset",
+    "defaultAmount": "$1,800/mo",
+    "blocks": [
+      {
+        "id": "b1",
+        "type": "heading",
+        "content": "CADENCE 1-ON-1 HIGH PERFORMANCE COACHING AGREEMENT"
+      },
+      {
+        "id": "b2",
+        "type": "text",
+        "content": "This agreement outlines the customized physiological, nutritional, and metabolic periodization protocol provided by Coach Julian Vance (Cadence Athletics). All nutritional directives, hydration timing, and macro splits are individualized based on real-time biometric telemetry."
+      },
+      {
+        "id": "b3",
+        "type": "pricing",
+        "items": [
+          { "desc": "Tier 1 Performance Retainer (Monthly Protocol)", "qty": 1, "rate": 1800, "total": 1800 },
+          { "desc": "Continuous Glucose Monitoring (CGM) & Lab Biomarker Review", "qty": 1, "rate": 0, "total": 0 },
+          { "desc": "Weekly 1-on-1 Strategy Video Consultation & Clinical HUD", "qty": 4, "rate": 0, "total": 0 }
+        ]
+      },
+      {
+        "id": "b4",
+        "type": "payment",
+        "content": "Payment Schedule: Automated monthly debit via Stripe Vault on the 1st of each calendar month. Either party may adjust or terminate retainer with 30-day written notice."
+      }
+    ]
+  },
+  {
+    "id": "tmpl_metabolic_cgm",
+    "name": "Metabolic Periodization & CGM Sprint",
+    "type": "protocol",
+    "category": "Protocols",
+    "description": "12-week intensive metabolic acceleration protocol focusing on glucose variability minimization, carbohydrate re-feed timing, and DEXA tracking.",
+    "isPreset": true,
+    "createdAt": "Standard Preset",
+    "defaultAmount": "$2,750",
+    "blocks": [
+      {
+        "id": "b1",
+        "type": "heading",
+        "content": "METABOLIC PERIODIZATION & GLUCOSE REGULATION PROTOCOL"
+      },
+      {
+        "id": "b2",
+        "type": "box",
+        "content": "Clinical Target: Fasting morning blood glucose 78–92 mg/dL. Baseline HRV increase > 12ms over 8 weeks. Target lean mass retention: 100%."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "content": "1. MACRONUTRIENT ROTATION: High carbohydrate re-feed days scheduled on high-volume lifting days (Monday & Thursday). Ketogenic baseline on active recovery days.\n2. BIOMARKER LOGGING: Scan sensor immediately before meals and post-prandial at 60 and 120 minutes.\n3. RECOVERY ELECTROLYTES: 500mg Sodium, 200mg Potassium, 150mg Magnesium Bisglycinate 30 min before AM cardiovascular session."
+      },
+      {
+        "id": "b4",
+        "type": "pricing",
+        "items": [
+          { "desc": "12-Week CGM & Metabolic Optimization Sprint", "qty": 1, "rate": 2400, "total": 2400 },
+          { "desc": "Continuous Biosensor Provisioning & Functional Blood Chemistry Re-test", "qty": 1, "rate": 350, "total": 350 }
+        ]
+      },
+      {
+        "id": "b5",
+        "type": "payment",
+        "content": "Payment Terms: Upfront single payment of $2,750 or 3 consecutive monthly installments of $950 auto-debited."
+      }
+    ]
+  },
+  {
+    "id": "tmpl_contest_prep",
+    "name": "Elite Contest Prep & Peak Week Retainer",
+    "type": "contract",
+    "category": "Contest Prep",
+    "description": "High-accountability 16-week bodybuilding or physique prep contract with daily check-ins, water/sodium manipulation, and backstage support.",
+    "isPreset": true,
+    "createdAt": "Standard Preset",
+    "defaultAmount": "$3,800",
+    "blocks": [
+      {
+        "id": "b1",
+        "type": "heading",
+        "content": "ELITE ATHLETIC COMPETITION & PEAK WEEK CONTRACT"
+      },
+      {
+        "id": "b2",
+        "type": "box",
+        "content": "MANDATORY ATHLETE COMPLIANCE: Daily morning fasted weight and front/back progress check-in photos are mandatory. Missing 3 consecutive check-ins voids peak week guarantee."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "content": "Coach Julian Vance agrees to provide daily caloric adjustments, high-resolution peak week sodium/potassium/water titration protocols, and direct priority WhatsApp voice hotline for urgent adjustments throughout the final 14-day depletion phase."
+      },
+      {
+        "id": "b4",
+        "type": "pricing",
+        "items": [
+          { "desc": "16-Week Contest Prep Master Retainer", "qty": 1, "rate": 3200, "total": 3200 },
+          { "desc": "Dedicated Backstage & Depletion Consultation", "qty": 1, "rate": 600, "total": 600 }
+        ]
+      },
+      {
+        "id": "b5",
+        "type": "payment",
+        "content": "Contract Execution: $1,900 initial deposit required upon signing. Remaining balance of $1,900 due at Week 8."
+      }
+    ]
+  },
+  {
+    "id": "tmpl_executive_health",
+    "name": "VIP Executive Health & Concierge Retainer",
+    "type": "proposal",
+    "category": "Executive",
+    "description": "Quarterly executive health optimization for founders and executives with private chef coordination, sleep latency optimization, and lipid particle audits.",
+    "isPreset": true,
+    "createdAt": "Standard Preset",
+    "defaultAmount": "$5,950/qtr",
+    "blocks": [
+      {
+        "id": "b1",
+        "type": "heading",
+        "content": "EXECUTIVE CONCIERGE HEALTH & COGNITIVE PERFORMANCE"
+      },
+      {
+        "id": "b2",
+        "type": "box",
+        "content": "Executive Focus: Zero decision fatigue. Protocol synced with personal chef, executive assistant, and travel schedule to ensure 100% adherence during overseas flights."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "content": "Quarterly executive deliverables include advanced cardiometabolic biomarker analysis (ApoB, Lp(a), hs-CRP, fasting insulin, testosterone/cortisol index), circadian sleep synchronization, and bespoke supplement dispensary delivery."
+      },
+      {
+        "id": "b4",
+        "type": "pricing",
+        "items": [
+          { "desc": "Executive Health Quarterly Retainer (90-Day Block)", "qty": 1, "rate": 5500, "total": 5500 },
+          { "desc": "Comprehensive At-Home Biomarker Phlebotomy & Lab Interpretation", "qty": 1, "rate": 450, "total": 450 }
+        ]
+      },
+      {
+        "id": "b5",
+        "type": "payment",
+        "content": "Quarterly billing of $5,950 auto-renewing on calendar quarter renewal date unless cancelled 30 days prior."
+      }
+    ]
+  },
+  {
+    "id": "tmpl_liability_waiver",
+    "name": "Nutrition Coaching Scope & Liability Waiver",
+    "type": "contract",
+    "category": "Onboarding / Legal",
+    "description": "Standard legal consent and scope of practice declaration clarifying nutritional coaching versus medical diagnosis, with liability release.",
+    "isPreset": true,
+    "createdAt": "Standard Preset",
+    "defaultAmount": "$0",
+    "blocks": [
+      {
+        "id": "b1",
+        "type": "heading",
+        "content": "INFORMED CONSENT, NUTRITIONAL SCOPE & LIABILITY RELEASE"
+      },
+      {
+        "id": "b2",
+        "type": "box",
+        "content": "IMPORTANT NOTICE: Nutritional coaching, meal plans, and supplementation protocols provided by Cadence Athletics are for athletic performance, body composition improvement, and general wellness. They do not constitute medical diagnosis or replace physician consultation."
+      },
+      {
+        "id": "b3",
+        "type": "text",
+        "content": "The client affirms they are in sound physical health, have disclosed all pre-existing medical conditions, food allergies, and cardiovascular history, and have received physician clearance before beginning any calorie-restricted or high-intensity athletic regimen."
+      },
+      {
+        "id": "b4",
+        "type": "payment",
+        "content": "Compliance & Onboarding Document — No monetary charge attached. Must be digitally acknowledged prior to first consultation."
+      }
+    ]
+  }
+]

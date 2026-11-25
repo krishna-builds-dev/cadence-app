@@ -1,0 +1,127 @@
+[
+  {
+    "id": "doc_1",
+    "name": "Elena Rostova — Coaching Agreement",
+    "type": "contract",
+    "client": "Elena Rostova",
+    "clientId": "c10",
+    "date": "Oct 15, 2026",
+    "status": "signed",
+    "size": "124 KB",
+    "amount": "$1,800/mo",
+    "notes": "Annual high-performance endurance & metabolic periodization retainer.",
+    "signature": {
+      "signedBy": "Elena Rostova",
+      "signedAt": "Oct 15, 2026 · 11:20 AM",
+      "signatureType": "type",
+      "signatureData": "Elena Rostova",
+      "certificateHash": "CAD-SIGN-8F4A2B-ER10"
+    },
+    "content": "CADENCE 1-ON-1 COACHING RETAINER AGREEMENT\n\nParties: Coach Vance (Cadence High-Performance Athletics) & Elena Rostova (Client).\n\n1. SCOPE OF SERVICES: Coach Vance provides customized weekly macronutrient architecture, daily CGM/HRV biometric telemetry monitoring, weekly 45-minute 1-on-1 strategy sessions, and rapid protocol adjustments.\n2. RETAINER & BILLING: Client authorizes automated monthly card debit of $1,800.00 USD on the 15th of each calendar month via Stripe Vault.\n3. CONFIDENTIALITY: All physiological telemetry, blood panels, DEXA scans, and metabolic profiles remain strictly confidential.\n4. CANCELLATION: Either party may terminate with 30-day written notice.\n\nStatus: Fully executed and signed via DocuSign by Elena Rostova on Oct 15, 2026."
+  },
+  {
+    "id": "doc_2",
+    "name": "Marcus Kane — 16-Week Hypertrophy Proposal",
+    "type": "proposal",
+    "client": "Marcus Kane",
+    "clientId": "c8",
+    "date": "Sep 28, 2026",
+    "status": "signed",
+    "size": "88 KB",
+    "amount": "$1,500/mo",
+    "notes": "16-Week body recomposition with cyclic dextrin nutrient partitioning.",
+    "signature": {
+      "signedBy": "Marcus Kane",
+      "signedAt": "Sep 28, 2026 · 02:45 PM",
+      "signatureType": "type",
+      "signatureData": "Marcus Kane",
+      "certificateHash": "CAD-SIGN-7A9C1D-MK08"
+    },
+    "content": "STRATEGIC PROPOSAL: 16-WEEK LEAN MASS & METABOLIC RESET\n\nClient: Marcus Kane (Kane Athletics)\nPrimary Objective: 3.5 kg lean skeletal muscle accrual with sub-11% body fat preservation.\n\nKey Strategic Pillars:\n- Phase 1 (Weeks 1-4): Baseline insulin sensitivity re-sensitization & gut microbiome reset.\n- Phase 2 (Weeks 5-10): Progressive caloric surplus (+250 kcal progressive buffer) with peri-workout nutrient timing.\n- Phase 3 (Weeks 11-14): Metabolic plateau interception & cyclic refeed blocks.\n- Phase 4 (Weeks 15-16): Consolidation and hormonal equilibrium maintenance.\n\nInvestment: $1,500/month across 4 monthly billing increments."
+  },
+  {
+    "id": "doc_3",
+    "name": "Sophia Laurent — Concierge Retainer Agreement",
+    "type": "contract",
+    "client": "Sophia Laurent",
+    "clientId": "c9",
+    "date": "Aug 10, 2026",
+    "status": "signed",
+    "size": "204 KB",
+    "amount": "$2,200/mo",
+    "notes": "Tier 1 Executive VIP tier with comprehensive quarterly blood biomarkers.",
+    "signature": {
+      "signedBy": "Sophia Laurent",
+      "signedAt": "Aug 10, 2026 · 04:30 PM",
+      "signatureType": "type",
+      "signatureData": "Sophia Laurent",
+      "certificateHash": "CAD-SIGN-5B3E8F-SL09"
+    },
+    "content": "CONCIERGE EXECUTIVE PERFORMANCE AGREEMENT\n\nClient: Sophia Laurent (Laurent Studio)\nProvider: Coach Vance\n\nExecutive Level Inclusions:\n- 24/7 Priority asynchronous access via Cadence AI Messenger.\n- In-depth functional medicine blood panel interpretation (Thyroid panel, ApoB, hs-CRP, fasting insulin).\n- Travel nutritional logistics and restaurant macro menu curation.\n- Quarterly DEXA scan reviews and mitochondrial optimization protocols.\n\nRetainer: $2,200.00 USD monthly subscription."
+  },
+  {
+    "id": "doc_4",
+    "name": "Alexander Wright — Recomp & Metabolic Proposal",
+    "type": "proposal",
+    "client": "Alexander Wright",
+    "clientId": "c4",
+    "date": "Nov 10, 2026",
+    "status": "pending",
+    "size": "76 KB",
+    "amount": "$1,200/mo",
+    "notes": "Awaiting client digital review and signature. Follow-up dispatched.",
+    "content": "PROPOSAL: 12-WEEK METABOLIC FLEXIBILITY ACCELERATOR\n\nClient: Alexander Wright (Wright Labs)\nCoach: Coach Vance\n\nTarget Deliverables:\n- Reversing travel-induced metabolic slowdown.\n- Synchronizing circadian rhythm with time-restricted feeding windows (16:8 protocol).\n- Real-time Whoop/Oura sleep efficiency recovery analysis.\n\nProposed Retainer: $1,200.00 / month.\nStatus: Awaiting client acceptance & Stripe setup."
+  },
+  {
+    "id": "doc_5",
+    "name": "Devon Lane — Core Protocol Agreement",
+    "type": "contract",
+    "client": "Devon Lane",
+    "clientId": "c3",
+    "date": "Nov 01, 2026",
+    "status": "signed",
+    "size": "95 KB",
+    "amount": "$950/mo",
+    "notes": "Core metabolic foundation with weekly check-in cadence.",
+    "content": "CADENCE PERFORMANCE RETAINER — CORE PROTOCOL\n\nClient: Devon Lane\nAgreement Start Date: November 01, 2026\n\nDeliverables:\n- Personalized weekly target recalculation based on Friday morning weigh-ins.\n- Supplement timing schedule (Magnesium L-Threonate, Creatine Monohydrate, Omega-3s).\n- Direct messaging response within 12 business hours.\n\nTerms: $950.00 monthly subscription."
+  },
+  {
+    "id": "doc_6",
+    "name": "INV-0041 — Sophia Laurent Nov 2026",
+    "type": "invoice",
+    "client": "Sophia Laurent",
+    "clientId": "c9",
+    "date": "Nov 12, 2026",
+    "status": "paid",
+    "size": "42 KB",
+    "amount": "$2,200.00",
+    "notes": "Automated card payment successfully processed via Stripe webhook.",
+    "content": "INVOICE #INV-0041\nDate: November 12, 2026\nBill To: Sophia Laurent (Laurent Studio)\nPayment Method: Visa ending in •••• 8831 (Stripe Charge ch_3M821aK)\n\nItems:\n1. Executive Concierge Retainer (Nov 15 - Dec 14, 2026) — $2,200.00\n\nSubtotal: $2,200.00\nTax: $0.00\nTotal Paid: $2,200.00 USD (PAID)"
+  },
+  {
+    "id": "doc_7",
+    "name": "INV-0040 — Marcus Kane Dec 2026",
+    "type": "invoice",
+    "client": "Marcus Kane",
+    "clientId": "c8",
+    "date": "Dec 01, 2026",
+    "status": "pending",
+    "size": "42 KB",
+    "amount": "$1,500.00",
+    "notes": "Scheduled for automatic debit on Dec 01, 2026.",
+    "content": "INVOICE #INV-0040\nDate of Issue: Dec 01, 2026\nBill To: Marcus Kane (Kane Athletics)\nPayment Due: Dec 01, 2026\n\nLine Items:\n1. Elite Athletic Coaching Retainer — December Cycle — $1,500.00\n\nAmount Due: $1,500.00 USD (Auto-Debit Queued)"
+  },
+  {
+    "id": "doc_8",
+    "name": "Elena Rostova — 7-Day Carbohydrate Micro-Cycle Protocol",
+    "type": "protocol",
+    "client": "Elena Rostova",
+    "clientId": "c10",
+    "date": "Nov 16, 2026",
+    "status": "sent",
+    "size": "115 KB",
+    "amount": "Included",
+    "notes": "Prescribed directly to client portal following metabolic plateau trigger.",
+    "content": "CLINICAL PROTOCOL: 7-DAY LEPTIN & CARB RE-FEED MICRO-CYCLE\n\nClient: Elena Rostova\nPrescribing Coach: Coach Vance\nIndications: 12-day weight plateau, resting body temp dip (-0.4°C), nocturnal cortisol spike.\n\nPrescription Directives:\n- Daily Carbohydrates: Increase baseline from 185g to 210g (+25g complex carbs with breakfast).\n- Re-feed Days (Tuesday & Saturday): 280g Carbohydrates, 130g Protein, 40g Fat (Total 2,000 kcal).\n- Fluid & Electrolytes: 3.5L water with 1,000mg sodium / 400mg potassium buffer during high-cadence training.\n- Telemetry Requirement: Log resting HR and waking blood glucose within 30 min of waking."
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "id": "chat-1",
+    "title": "Alexander Wright — Re-engagement Protocol",
+    "preview": "What's the best 48h re-engagement protocol for a ghost client?",
+    "model": "cadence-gpt",
+    "createdAt": "Nov 22, 2026",
+    "updatedAt": "2:14 PM",
+    "pinned": true,
+    "tags": ["re-engagement", "anti-churn"],
+    "messages": [
+      {
+        "id": "m1",
+        "role": "user",
+        "content": "Alexander Wright hasn't logged in 84 hours. His churn probability is 82%. What's the best 48h re-engagement sequence I should run?",
+        "timestamp": "2:10 PM"
+      },
+      {
+        "id": "m2",
+        "role": "assistant",
+        "content": "Given Alexander's 84-hour ghost pattern and 82% churn probability, here's your optimal 48-hour re-engagement sequence:\n\n**Hour 0–2: Soft Touch**\n- Send a WhatsApp voice note (not text) — 30 seconds, casual, no mention of logging gaps\n- Reference something specific: \"Saw your travel photos — how was the trip?\"\n\n**Hour 24: Value Drop**\n- Share a personalized insight: \"Based on your last glucose data, I adjusted your carb re-feed window for travel recovery\"\n- Attach a 1-page PDF of his updated macro targets\n\n**Hour 36: Social Proof**\n- Send one client win story (anonymized) relevant to his goal (body recomp)\n- End with: \"Your next check-in window is Friday — want to lock in a time?\"\n\n**Hour 48: Direct Ask**\n- If no response: \"Alexander — quick yes or no. Still want to push for the December recomp goal?\"\n- This binary question has a 73% higher response rate than open-ended follow-ups.\n\n**Key Principle**: Never mention the logging gap directly. Frame everything around momentum and his goals, not your data.",
+        "timestamp": "2:11 PM"
+      },
+      {
+        "id": "m3",
+        "role": "user",
+        "content": "Should I adjust his macros during this ghosting period or wait until he re-engages?",
+        "timestamp": "2:13 PM"
+      },
+      {
+        "id": "m4",
+        "role": "assistant",
+        "content": "**Wait, but prepare the adjustment now.**\n\nAdjusting macros without active logging data is a risk — you'd be optimizing blindly. However, have a \"Return Protocol\" macro set ready:\n\n- **Calories**: Drop 150 kcal from his last logged intake (account for travel deconditioning)\n- **Protein**: Keep at 2.2g/kg — non-negotiable for muscle preservation\n- **Carbs**: Reduce by 30g, increase by 15g post-workout only\n- **Fats**: Hold steady\n\nSend him this pre-built plan the moment he re-engages. The speed of your response signals high-value coaching and reduces the activation energy for him to get back on track.\n\nAlso consider: flag this in your Anti-Churn Radar for a 72-hour follow-up escalation if no contact is made.",
+        "timestamp": "2:14 PM"
+      }
+    ]
+  },
+  {
+    "id": "chat-2",
+    "title": "Elena Rostova — Metabolic Plateau Fix",
+    "preview": "12-day weight stall despite 94% compliance. Leptin reset protocol?",
+    "model": "cadence-gpt",
+    "createdAt": "Nov 21, 2026",
+    "updatedAt": "11:42 AM",
+    "pinned": true,
+    "tags": ["plateau", "metabolic", "carb-cycling"],
+    "messages": [
+      {
+        "id": "m1",
+        "role": "user",
+        "content": "Elena Rostova has been at 1,850 kcal with 94% compliance for 12 days straight but scale is not moving. Delta is under 0.15kg. She's frustrated. What's going on metabolically?",
+        "timestamp": "11:35 AM"
+      },
+      {
+        "id": "m2",
+        "role": "assistant",
+        "content": "Classic **metabolic adaptation plateau**. At 12 days with >90% compliance and sub-0.15kg movement, the primary suspects are:\n\n1. **Leptin downregulation** — Sustained caloric deficit suppresses leptin, signaling the hypothalamus to slow BMR. This is especially pronounced in female athletes around the luteal phase.\n\n2. **T3 thyroid hormone reduction** — Extended low-calorie intake reduces active T3 conversion, dropping metabolic rate by 10–15%.\n\n3. **Water retention masking fat loss** — High training volume + cortisol from competition stress can cause glycogen supercompensation and water retention (1–2kg range) that masks actual fat oxidation.\n\n**Recommended Fix: 2-Day Carbohydrate Re-feed**\n- Calories: Increase to ~2,350 kcal for 2 days (maintenance + 10%)\n- Carbs: Push to 300–320g both days (high-GI post-workout, low-GI the rest)\n- Protein: Hold at current level\n- Fats: Drop to minimum (~40g) during re-feed days\n\nThis resets leptin, restores T3, and signals the body it's not in a famine state. Resume deficit on day 3.",
+        "timestamp": "11:38 AM"
+      }
+    ]
+  },
+  {
+    "id": "chat-3",
+    "title": "Meera Kulkarni — Compliance Drop Analysis",
+    "preview": "Compliance dropped from 91% to 44% — root cause analysis",
+    "model": "cadence-gpt",
+    "createdAt": "Nov 20, 2026",
+    "updatedAt": "9:08 AM",
+    "pinned": false,
+    "tags": ["compliance", "behavioral"],
+    "messages": [
+      {
+        "id": "m1",
+        "role": "user",
+        "content": "Meera's compliance dropped from 91% to 44% over the last 10 days. No major life events reported. What could cause this sudden drop?",
+        "timestamp": "9:05 AM"
+      },
+      {
+        "id": "m2",
+        "role": "assistant",
+        "content": "A 47-point compliance drop in 10 days without a reported life event is usually one of four things:\n\n**1. Protocol Fatigue (Most Likely)**\nIf her plan hasn't changed in 6+ weeks, compliance fatigue sets in. The novelty effect wears off and adherence drops even when motivation is intact.\n\n**2. Social/Environmental Trigger**\nWork travel, social eating events, or a change in household food environment. These often go unreported because clients feel embarrassed.\n\n**3. Plateau Frustration**\nIf she hit a 2–3 week stall recently, compliance drops as a subconscious \"what's the point\" response.\n\n**4. Tracking App Friction**\nSometimes it's as simple as the app itself — if she switched phones or the logging UX became annoying, she stops tracking even if she's eating correctly.\n\n**Action Plan:**\n- Send a check-in questionnaire (3 questions max) — not a lecture\n- Reframe: \"I'm seeing some variance in your logs — no judgment, just want to understand your week\"\n- Consider a 1-week \"relaxed protocol\" where she tracks only protein and total calories\n- Rebuilding compliance momentum beats enforcing the full protocol",
+        "timestamp": "9:08 AM"
+      }
+    ]
+  },
+  {
+    "id": "chat-4",
+    "title": "General — Carb Cycling Template",
+    "preview": "Build a standard carb cycling template for endurance athletes",
+    "model": "cadence-gpt",
+    "createdAt": "Nov 19, 2026",
+    "updatedAt": "3:55 PM",
+    "pinned": false,
+    "tags": ["template", "carb-cycling", "endurance"],
+    "messages": [
+      {
+        "id": "m1",
+        "role": "user",
+        "content": "Create a standard 7-day carb cycling template for a 70kg endurance athlete training 5 days/week. Goal is fat loss while maintaining VO2 performance.",
+        "timestamp": "3:52 PM"
+      },
+      {
+        "id": "m2",
+        "role": "assistant",
+        "content": "**7-Day Carb Cycling Template — 70kg Endurance Athlete**\n*Goal: Fat loss + VO2 maintenance*\n\n| Day | Training | Calories | Carbs | Protein | Fat |\n|-----|----------|----------|-------|---------|-----|\n| Mon | High intensity | 2,450 | 320g | 154g | 55g |\n| Tue | Moderate | 2,100 | 220g | 154g | 65g |\n| Wed | Low / Rest | 1,850 | 120g | 154g | 80g |\n| Thu | High intensity | 2,450 | 320g | 154g | 55g |\n| Fri | Moderate | 2,100 | 220g | 154g | 65g |\n| Sat | Long run | 2,650 | 380g | 154g | 55g |\n| Sun | Rest | 1,750 | 90g | 154g | 85g |\n\n**Key Rules:**\n- Protein fixed at 2.2g/kg across all days (non-negotiable for muscle preservation)\n- High-carb days: 70% complex sources pre-workout, 30% fast-acting post-workout\n- Low-carb days: eliminate refined carbs entirely, increase fibrous vegetables\n- Fat intake inversely scales with carb intake\n- Re-evaluate after 3 weeks based on body composition and performance metrics",
+        "timestamp": "3:55 PM"
+      }
+    ]
+  }
+]

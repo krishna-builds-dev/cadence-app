@@ -1,0 +1,132 @@
+{
+  "clientProfile": {
+    "id": "c101",
+    "name": "Sarah Jenkins",
+    "email": "sarah.j@venturecapital.io",
+    "initials": "SJ",
+    "streakDays": 14,
+    "tierLabel": "Tier 1 Metabolic & Biometrics",
+    "monthlyFee": "$1,500/mo",
+    "status": "Active Retainer",
+    "nextBilling": "Dec 15, 2026",
+    "coach": {
+      "name": "Julian Vance",
+      "title": "Lead Performance & Longevity Coach",
+      "initials": "JV",
+      "avatar": "",
+      "coachCode": "COACH-JULIAN"
+    },
+    "nextSession": {
+      "title": "1-on-1 Biometrics & Recomp Strategy",
+      "date": "Thursday, Nov 26, 2026",
+      "time": "11:00 AM EST",
+      "duration": "45 min",
+      "zoomUrl": "https://cadence.app/call/cadence-sj-jv"
+    }
+  },
+  "todayTargets": {
+    "calories": { "target": 2150, "consumed": 1680, "unit": "kcal" },
+    "protein": { "target": 145, "consumed": 118, "unit": "g", "note": "High Satiety" },
+    "carbs": { "target": 210, "consumed": 155, "unit": "g", "note": "Pre/Post Training Window" },
+    "fat": { "target": 55, "consumed": 42, "unit": "g", "note": "Essential Lipids" }
+  },
+  "loggedMeals": [
+    {
+      "id": "m1",
+      "time": "08:15 AM",
+      "title": "Breakfast / Pre-Fuel",
+      "items": "3 pasture eggs, 60g oats with blueberries & 20g whey isolate",
+      "calories": 520,
+      "protein": 42,
+      "carbs": 55,
+      "fat": 16
+    },
+    {
+      "id": "m2",
+      "time": "01:30 PM",
+      "title": "Lunch / Re-Feed",
+      "items": "180g grilled chicken breast, 150g jasmine rice, steamed greens & olive oil",
+      "calories": 610,
+      "protein": 48,
+      "carbs": 65,
+      "fat": 14
+    },
+    {
+      "id": "m3",
+      "time": "05:00 PM",
+      "title": "Post-Workout Recovery",
+      "items": "Whey protein shake with banana & cyclic dextrin buffer",
+      "calories": 310,
+      "protein": 28,
+      "carbs": 35,
+      "fat": 2
+    }
+  ],
+  "habits": [
+    {
+      "id": "h1",
+      "label": "Morning Fasting Scale Weight",
+      "type": "input",
+      "value": "64.2",
+      "unit": "kg",
+      "completed": true,
+      "delta": "-0.3kg vs last week"
+    },
+    {
+      "id": "h2",
+      "label": "CGM Fasting Blood Glucose",
+      "type": "input",
+      "value": "91",
+      "unit": "mg/dL",
+      "completed": true,
+      "delta": "Optimal baseline"
+    },
+    {
+      "id": "h3",
+      "label": "Hydration Target (2.5L / 8 glasses)",
+      "type": "counter",
+      "current": 6,
+      "target": 8,
+      "unit": "glasses",
+      "completed": false
+    },
+    {
+      "id": "h4",
+      "label": "Sleep Duration & Recovery Score",
+      "type": "metric",
+      "value": "7.9 hrs",
+      "sub": "88% Whoop Recovery",
+      "completed": true
+    },
+    {
+      "id": "h5",
+      "label": "Workout Intra-Fueling Protocol",
+      "type": "check",
+      "completed": true,
+      "sub": "Sodium + cyclic dextrin consumed"
+    }
+  ],
+  "timelineShifts": [
+    {
+      "id": "ts_1",
+      "timestamp": "Today at 07:30 AM",
+      "shiftTag": "High-Output Day",
+      "statusText": "Carbs Increased (+40g)",
+      "rationale": "Shifted carbohydrate target from 170g to 210g today to support heavy lower-body hypertrophy session. Prioritize 60g in your pre-workout meal 90 minutes prior to training."
+    },
+    {
+      "id": "ts_2",
+      "timestamp": "Nov 20, 2026",
+      "shiftTag": "Recovery Day",
+      "statusText": "Deload Calorie Floor",
+      "rationale": "Reduced calories to 1,850 on Wednesday rest day while keeping protein fixed at 145g to maximize muscle protein synthesis during sleep."
+    },
+    {
+      "id": "ts_3",
+      "timestamp": "Nov 16, 2026",
+      "shiftTag": "Metabolic Calibrator",
+      "statusText": "Electrolyte Protocol Shift",
+      "rationale": "Added 800mg sodium pre-workout following elevated sweat rate telemetry. Restores intra-cellular hydration and halts afternoon brain fog."
+    }
+  ]
+}

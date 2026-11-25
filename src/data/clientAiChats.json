@@ -1,0 +1,50 @@
+[
+  {
+    "id": "client-chat-1",
+    "title": "Pre-Workout Fuel & Carbohydrate Timing",
+    "preview": "What should I eat 75-90 minutes before heavy leg day?",
+    "model": "cadence-gpt",
+    "createdAt": "Nov 22, 2026",
+    "updatedAt": "1:30 PM",
+    "pinned": true,
+    "tags": ["nutrition", "pre-workout", "carbs"],
+    "messages": [
+      {
+        "id": "cm1",
+        "role": "user",
+        "content": "What should I eat 75 to 90 minutes before my lower body heavy session today to maximize performance without feeling sluggish?",
+        "timestamp": "1:28 PM"
+      },
+      {
+        "id": "cm2",
+        "role": "assistant",
+        "content": "Based on your Cadence macro targets (210g carb training ceiling), here is the optimal pre-workout window for you:\n\n**Timing:** 75–90 minutes prior to lifting.\n\n**Target Composition:**\n- **Carbohydrates**: 40–50g of low-glycemic, easily digestible complex carbs\n- **Protein**: 25–30g of fast-absorbing protein\n- **Fats**: Keep under 5g (fats delay gastric emptying and can cause GI heaviness)\n\n**Recommended Meal Options:**\n1. **Option A (Classic)**: 50g rolled oats cooked with water, 1 scoop vanilla whey isolate, 1/2 sliced banana, and a pinch of cinnamon.\n2. **Option B (Quick)**: 2 slices sourdough toast with 1 tbsp raw honey + 1 scoop whey protein shaken in almond milk.\n3. **Option C (Whole food)**: 150g jasmine rice with 100g sliced grilled chicken breast (minimal oil).\n\n**Hydration Tip:** Drink 400ml water with a pinch of Celtic sea salt or electrolyte buffer 45 minutes before training.",
+        "timestamp": "1:30 PM"
+      }
+    ]
+  },
+  {
+    "id": "client-chat-2",
+    "title": "Hitting 145g Protein on Busy Workdays",
+    "preview": "High-satiety protein snacks to reach daily target without excess fat.",
+    "model": "cadence-gpt",
+    "createdAt": "Nov 20, 2026",
+    "updatedAt": "4:15 PM",
+    "pinned": true,
+    "tags": ["protein", "recipes", "macros"],
+    "messages": [
+      {
+        "id": "cm3",
+        "role": "user",
+        "content": "I sometimes struggle to hit 145g protein when I have back-to-back meetings. What are quick high-satiety protein ideas that keep fats under 15g?",
+        "timestamp": "4:10 PM"
+      },
+      {
+        "id": "cm4",
+        "role": "assistant",
+        "content": "Here are 4 high-yield, desk-friendly protein options that pack 25–35g protein with under 5g fat:\n\n1. **0% Greek Yogurt Bowl** (30g protein, 0g fat, 15g carbs)\n   - 200g Fage 0% Greek yogurt + 1 scoop protein powder stirred in + 50g fresh blueberries.\n\n2. **Egg White & Turkey Bites** (28g protein, 3g fat, 2g carbs)\n   - 4 hard-boiled egg whites + 80g sliced smoked turkey breast with mustard.\n\n3. **Cottage Cheese & Berries** (26g protein, 2g fat, 10g carbs)\n   - 200g low-fat cottage cheese (1%) with cinnamon and strawberries.\n\n4. **Cold Whey Isolate + Collagen Shake** (35g protein, 1g fat, 2g carbs)\n   - 1 scoop Whey Isolate + 1 scoop grass-fed collagen peptides in cold water or black iced coffee.\n\nPre-portioning these in the morning ensures you never play catch-up at dinner!",
+        "timestamp": "4:15 PM"
+      }
+    ]
+  }
+]

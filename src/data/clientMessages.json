@@ -1,0 +1,51 @@
+[
+  {
+    "id": "conv_coach_julian",
+    "clientId": "coach_jv",
+    "clientName": "Julian Vance",
+    "company": "Cadence Performance",
+    "focus": "Lead Performance & Longevity Coach",
+    "initials": "JV",
+    "lastMessage": "Your morning fasting glucose is solid at 91 mg/dL. Keep that 45g carb intra-workout window for tomorrow's lift.",
+    "date": "10:15 AM",
+    "status": "Live",
+    "unreadCount": 0,
+    "messages": [
+      {
+        "id": "cm_1",
+        "sender": "coach",
+        "text": "Hi Sarah! Welcome to Tier 1 Performance Coaching. I've uploaded your initial metabolic protocol and baseline macro targets into your portal.",
+        "time": "Nov 12, 10:00 AM",
+        "status": "read"
+      },
+      {
+        "id": "cm_2",
+        "sender": "client",
+        "text": "Thanks Coach Julian! Just logged today's breakfast and morning fasting weight (64.2 kg). Feeling energized after yesterday's session.",
+        "time": "Nov 14, 08:30 AM",
+        "status": "read"
+      },
+      {
+        "id": "cm_3",
+        "sender": "coach",
+        "text": "Excellent consistency Sarah. I saw your Whoop sleep recovery hit 88% last night. Your autonomic tone is recovering nicely.",
+        "time": "Yesterday, 04:15 PM",
+        "status": "read"
+      },
+      {
+        "id": "cm_4",
+        "sender": "client",
+        "text": "Should I adjust carbohydrate buffer on Thursday's high-intensity session?",
+        "time": "09:40 AM",
+        "status": "read"
+      },
+      {
+        "id": "cm_5",
+        "sender": "coach",
+        "text": "Your morning fasting glucose is solid at 91 mg/dL. Keep that 45g carb intra-workout window for tomorrow's lift.",
+        "time": "10:15 AM",
+        "status": "read"
+      }
+    ]
+  }
+]

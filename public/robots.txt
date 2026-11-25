@@ -1,0 +1,11 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+Allow: /#pricing
+Allow: /#how-it-works
+Disallow: /dashboard*
+Disallow: /client*
+Disallow: /api*
+Disallow: /settings*
+
+Sitemap: https://cadence.health/sitemap.xml

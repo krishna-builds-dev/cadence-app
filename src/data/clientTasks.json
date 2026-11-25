@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ct1",
+    "title": "Log Morning Fasting Scale Weight & Glucose",
+    "client": "Sarah Jenkins",
+    "priority": "high",
+    "status": "done",
+    "due": "Today",
+    "description": "Log scale weight and CGM sensor glucose before first meal intake."
+  },
+  {
+    "id": "ct2",
+    "title": "Hit 2.5L Daily Hydration Target (8 glasses)",
+    "client": "Sarah Jenkins",
+    "priority": "medium",
+    "status": "in-progress",
+    "due": "Today",
+    "description": "Maintain hydration with electrolyte buffer throughout active workday."
+  },
+  {
+    "id": "ct3",
+    "title": "Pre-Workout Carb Timing Window for Leg Day",
+    "client": "Sarah Jenkins",
+    "priority": "high",
+    "status": "todo",
+    "due": "Tomorrow",
+    "description": "Consume 45g complex carbohydrates 75 minutes prior to heavy lower body session."
+  },
+  {
+    "id": "ct4",
+    "title": "Review Week 3 Macro Adjustments from Coach Julian",
+    "client": "Sarah Jenkins",
+    "priority": "medium",
+    "status": "todo",
+    "due": "Nov 25",
+    "description": "Read clinical notes regarding the +25g protein ceiling adjustment."
+  },
+  {
+    "id": "ct5",
+    "title": "Upload Q4 Fasting Blood Biomarker Results",
+    "client": "Sarah Jenkins",
+    "priority": "low",
+    "status": "backlog",
+    "due": "Dec 05",
+    "description": "Obtain lipid panel & fasting insulin report from Quest Diagnostics."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": "cn1",
+    "title": "Protocol Updated by Coach Julian",
+    "time": "2h ago",
+    "read": false,
+    "type": "protocol",
+    "section": "overview",
+    "message": "Coach Julian adjusted your training-day carb target to 210g."
+  },
+  {
+    "id": "cn2",
+    "title": "Upcoming 1-on-1 Telehealth Session",
+    "time": "1d ago",
+    "read": false,
+    "type": "meeting",
+    "section": "meetings",
+    "message": "Check-in call with Coach Julian Vance on Thursday, Nov 26 at 11:00 AM EST."
+  },
+  {
+    "id": "cn3",
+    "title": "New Message from Coach Julian",
+    "time": "10:15 AM",
+    "read": true,
+    "type": "message",
+    "section": "ai-messenger",
+    "message": "Your morning fasting glucose is solid at 91 mg/dL."
+  }
+]

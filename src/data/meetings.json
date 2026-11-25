@@ -1,0 +1,90 @@
+[
+  {
+    "id": "mt1",
+    "clientId": "c10",
+    "client": "Elena Rostova",
+    "type": "1-on-1 Strategy",
+    "date": "Nov 17, 2026",
+    "time": "10:00 AM",
+    "duration": "45 min",
+    "status": "upcoming",
+    "notes": "Week 7 metabolic plateau review & micro-cycle adjustments."
+  },
+  {
+    "id": "mt2",
+    "clientId": "c8",
+    "client": "Marcus Kane",
+    "type": "Progress Review",
+    "date": "Nov 18, 2026",
+    "time": "02:00 PM",
+    "duration": "30 min",
+    "status": "upcoming",
+    "notes": "Hypertrophy week 8 check & deload nutrition strategy."
+  },
+  {
+    "id": "mt3",
+    "clientId": "c3",
+    "client": "Imran Sheikh",
+    "type": "1-on-1 Strategy",
+    "date": "Nov 20, 2026",
+    "time": "03:00 PM",
+    "duration": "45 min",
+    "status": "upcoming",
+    "notes": "Metabolic week 12 close-out & retainer renewal."
+  },
+  {
+    "id": "mt4",
+    "clientId": "c5",
+    "client": "Ananya Rao",
+    "type": "Onboarding Call",
+    "date": "Nov 21, 2026",
+    "time": "11:30 AM",
+    "duration": "30 min",
+    "status": "upcoming",
+    "notes": "Review initial continuous glucose monitor setup and meal timing."
+  },
+  {
+    "id": "mt5",
+    "clientId": "c4",
+    "client": "Alexander Wright",
+    "type": "Re-engagement Call",
+    "date": "Nov 15, 2026",
+    "time": "11:00 AM",
+    "duration": "30 min",
+    "status": "completed",
+    "notes": "Body recomp stall addressed with carb-cycling protocol."
+  },
+  {
+    "id": "mt6",
+    "clientId": "c9",
+    "client": "Sophia Laurent",
+    "type": "Quarterly Strategy",
+    "date": "Nov 16, 2026",
+    "time": "09:00 AM",
+    "duration": "60 min",
+    "status": "completed",
+    "notes": "Longevity protocol review and biomarkers wrap-up."
+  },
+  {
+    "id": "mt7",
+    "clientId": "c6",
+    "client": "Ritu Bajaj",
+    "type": "Progress Review",
+    "date": "Nov 14, 2026",
+    "time": "04:00 PM",
+    "duration": "30 min",
+    "status": "completed",
+    "notes": "Electrolyte balance and endurance hydration checks."
+  },
+  {
+    "id": "mt8",
+    "clientId": "c7",
+    "client": "Dev Prakash",
+    "type": "Quarterly Strategy",
+    "date": "Nov 22, 2026",
+    "time": "01:00 PM",
+    "duration": "45 min",
+    "status": "upcoming",
+    "notes": "Mid-quarter metabolic re-feed schedule alignment."
+  }
+]

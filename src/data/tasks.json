@@ -1,0 +1,101 @@
+[
+  {
+    "id": "t1",
+    "title": "Research continuous glucose monitoring integration with Apple HealthKit",
+    "client": "Admin",
+    "priority": "medium",
+    "status": "backlog",
+    "due": "Nov 30",
+    "description": "Evaluate HealthKit Background Delivery API for real-time interstitial glucose telemetry alerts."
+  },
+  {
+    "id": "t2",
+    "title": "Quarterly macro periodization templates for endurance peaking",
+    "client": "Elena Rostova",
+    "priority": "low",
+    "status": "backlog",
+    "due": "Dec 05",
+    "description": "Establish 4-week high carb reloading cycle prior to marathon trial blocks."
+  },
+  {
+    "id": "t3",
+    "title": "Review Elena's Week 7 check-in report",
+    "client": "Elena Rostova",
+    "priority": "high",
+    "status": "todo",
+    "due": "Today",
+    "description": "Inspect 12-day weight stall, sleep recovery dip, and prescribe +25g carb refeed buffer."
+  },
+  {
+    "id": "t4",
+    "title": "Follow up with Alexander — 3-day dark",
+    "client": "Alexander Wright",
+    "priority": "urgent",
+    "status": "todo",
+    "due": "Today",
+    "description": "Escalate automated check-in reminder; 84 hours elapsed since last telemetry logging in London."
+  },
+  {
+    "id": "t5",
+    "title": "Record Week 7 video coaching module on HRV recovery",
+    "client": "Admin",
+    "priority": "low",
+    "status": "todo",
+    "due": "Nov 22",
+    "description": "Produce 10-minute micro-lesson on autonomic balance and evening parasympathetic resets."
+  },
+  {
+    "id": "t6",
+    "title": "Draft Q4 retainer renewal for Sophia",
+    "client": "Sophia Laurent",
+    "priority": "high",
+    "status": "in-progress",
+    "due": "Nov 16",
+    "description": "Prepare Tier 1 Biometrics extension agreement with Stripe automated billing updates."
+  },
+  {
+    "id": "t7",
+    "title": "Prepare Devon Lane Month 3 progress deck",
+    "client": "Devon Lane",
+    "priority": "medium",
+    "status": "in-progress",
+    "due": "Nov 18",
+    "description": "Compile DEXA body composition comparisons and resting metabolic rate improvements."
+  },
+  {
+    "id": "t8",
+    "title": "Lab biomarker analysis for Imran Sheikh",
+    "client": "Imran Sheikh",
+    "priority": "high",
+    "status": "in-review",
+    "due": "Nov 15",
+    "description": "Evaluate lipid panel fractionation (ApoB/ApoA1) and fasting insulin markers."
+  },
+  {
+    "id": "t9",
+    "title": "Ketogenic re-adaptation protocol audit",
+    "client": "Marcus Kane",
+    "priority": "medium",
+    "status": "in-review",
+    "due": "Nov 17",
+    "description": "Review ketone strips and power output during tempo lifts."
+  },
+  {
+    "id": "t10",
+    "title": "Update Marcus's hypertrophy macros",
+    "client": "Marcus Kane",
+    "priority": "medium",
+    "status": "done",
+    "due": "Nov 14",
+    "description": "Adjusted baseline protein to 2.2g/kg and added intra-workout cyclic dextrin."
+  },
+  {
+    "id": "t11",
+    "title": "Send November invoices (all active retainers)",
+    "client": "Admin",
+    "priority": "high",
+    "status": "done",
+    "due": "Nov 01",
+    "description": "Dispatched Stripe automated invoices for all 28 roster athletes and executives."
+  }
+]

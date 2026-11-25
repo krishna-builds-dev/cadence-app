@@ -1,0 +1,161 @@
+[
+  {
+    "id": "plan_01",
+    "name": "Tier 1 Metabolic Periodization & CGM Sprint",
+    "tierLabel": "Tier 1 Protocol",
+    "defaultAmount": 1800,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Comprehensive metabolic optimization with daily continuous glucose monitoring telemetry, bespoke carb re-feeds, and weekly video strategy consultations.",
+    "deliverables": [
+      "Daily CGM glucose telemetry review",
+      "Weekly 45-min 1-on-1 strategy video consultation",
+      "Carbohydrate re-feed buffer optimization",
+      "Priority WhatsApp hotline"
+    ],
+    "badgeColor": "#ffb4a3",
+    "createdAt": "2026-08-01",
+    "updatedAt": "2026-11-01"
+  },
+  {
+    "id": "plan_02",
+    "name": "16-Week Hypertrophy & Recomp Retainer",
+    "tierLabel": "Hypertrophy Elite",
+    "defaultAmount": 1500,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "High-volume muscle protein synthesis protocol with nutrient partitioning, DEXA lean mass tracking, and cyclic surplus blocks.",
+    "deliverables": [
+      "DEXA scan lean mass cross-referencing",
+      "Peri-workout cyclic dextrin nutrient timing",
+      "Plateau interception & cyclic refeed blocks",
+      "Bi-weekly macro calibrations"
+    ],
+    "badgeColor": "#e85a2b",
+    "createdAt": "2026-08-15",
+    "updatedAt": "2026-10-20"
+  },
+  {
+    "id": "plan_03",
+    "name": "Executive VIP Concierge Health Retainer",
+    "tierLabel": "VIP Concierge",
+    "defaultAmount": 2200,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "All-inclusive white-glove health management, 24/7 direct coach access, private chef restaurant menu curation, and quarterly blood chemistry.",
+    "deliverables": [
+      "24/7 Priority Cadence AI Messenger hotline",
+      "Quarterly functional medicine blood panel interpretation",
+      "Private chef travel menu curation",
+      "Continuous Oura / Whoop stress telemetry"
+    ],
+    "badgeColor": "#ffd700",
+    "createdAt": "2026-07-10",
+    "updatedAt": "2026-11-10"
+  },
+  {
+    "id": "plan_04",
+    "name": "Founder Stamina & Circadian Sleep Retainer",
+    "tierLabel": "Founder Stamina",
+    "defaultAmount": 2800,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Designed for tech founders and executives navigating frequent time zone shifts, sleep debt, and high cortisol states.",
+    "deliverables": [
+      "Continuous Whoop / Oura recovery trendline synthesis",
+      "Travel-adjusted 16:8 time-restricted feeding windows",
+      "Afternoon cognitive crash prevention protocols",
+      "Executive jetlag reset supplementation stack"
+    ],
+    "badgeColor": "#c084fc",
+    "createdAt": "2026-07-01",
+    "updatedAt": "2026-10-25"
+  },
+  {
+    "id": "plan_05",
+    "name": "Core Athletic Periodization Retainer",
+    "tierLabel": "Core Protocol",
+    "defaultAmount": 950,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Structured periodized nutrition plan for competitive athletes and serious recreational trainees.",
+    "deliverables": [
+      "Targeted workout intra-nutrition guidelines",
+      "Bi-weekly check-in & body composition adjustments",
+      "In-app async messaging with 24h turnaround"
+    ],
+    "badgeColor": "#60a5fa",
+    "createdAt": "2026-08-20",
+    "updatedAt": "2026-09-15"
+  },
+  {
+    "id": "plan_06",
+    "name": "Endurance Peaking & Glycogen Retainer",
+    "tierLabel": "Endurance Peak",
+    "defaultAmount": 1650,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Marathon, ultra-endurance, and Ironman race nutrition periodization with sweat electrolyte rate testing and gut training.",
+    "deliverables": [
+      "Race-day carbohydrate loading schedule",
+      "Sodium & sweat rate replenishment calculation",
+      "Weekly long-run fueling reviews",
+      "Post-race rapid glycogen replenishment protocol"
+    ],
+    "badgeColor": "#4edea3",
+    "createdAt": "2026-08-10",
+    "updatedAt": "2026-10-18"
+  },
+  {
+    "id": "plan_07",
+    "name": "Biomarker Optimization & Hormonal Retainer",
+    "tierLabel": "Metabolic Reset",
+    "defaultAmount": 1400,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Deep-dive metabolic reset for individuals recovering from hormonal imbalances, insulin resistance, or persistent fatigue.",
+    "deliverables": [
+      "Functional fasting & insulin sensitivity protocol",
+      "Micronutrient deficiency repletion schedule",
+      "Lipid & thyroid blood marker trend tracking",
+      "Monthly physician-ready progress reports"
+    ],
+    "badgeColor": "#38bdf8",
+    "createdAt": "2026-09-01",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "plan_08",
+    "name": "Collegiate Powerlifting Coaching Retainer",
+    "tierLabel": "Strength Peaking",
+    "defaultAmount": 850,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Strength sport weight class management, 24-hour weigh-in water cut protocol, and meet-day sodium/potassium loading.",
+    "deliverables": [
+      "Weight class water cut & rehydration strategy",
+      "Competition platform nutrition timing",
+      "Creatine & ergogenic aid cycling plan"
+    ],
+    "badgeColor": "#f87171",
+    "createdAt": "2026-09-10",
+    "updatedAt": "2026-10-01"
+  },
+  {
+    "id": "plan_09",
+    "name": "Tier 3 Periodization & Metabolic Sync",
+    "tierLabel": "Tier 3 Maintenance",
+    "defaultAmount": 650,
+    "currency": "USD",
+    "billingCycle": "monthly",
+    "description": "Automated lifestyle maintenance retainer for graduated clients maintaining long-term metabolic health and body composition.",
+    "deliverables": [
+      "Monthly asynchronous check-in review",
+      "Adaptive calorie & macronutrient target updates",
+      "Access to Cadence AI Coach Copilot"
+    ],
+    "badgeColor": "#94a3b8",
+    "createdAt": "2026-07-20",
+    "updatedAt": "2026-10-12"
+  }
+]

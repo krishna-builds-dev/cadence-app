@@ -1,0 +1,191 @@
+[
+  {
+    "id": "conv_1",
+    "clientId": "c10",
+    "clientName": "Elena Rostova",
+    "company": "Nova Endurance",
+    "focus": "Endurance Nutrition & Glycogen",
+    "initials": "ER",
+    "lastMessage": "Understood! Loading the new macro target now. Let's review in tomorrow's check-in call.",
+    "date": "10:44 AM",
+    "status": "Live",
+    "unreadCount": 0,
+    "messages": [
+      {
+        "id": "m1_1",
+        "sender": "coach",
+        "text": "Elena, I reviewed your Whoop biometrics from yesterday's 25km trail run. Your recovery dropped to 38% and HRV showed fatigue accumulation.",
+        "time": "09:20 AM",
+        "status": "read"
+      },
+      {
+        "id": "m1_2",
+        "sender": "client",
+        "text": "Coach Vance, yes! Felt completely drained on the final climb. Should we adjust carbohydrate buffer pre-run?",
+        "time": "10:15 AM",
+        "status": "read"
+      },
+      {
+        "id": "m1_3",
+        "sender": "coach",
+        "text": "Exactly. I'm adding a 45g cyclic dextrin intra-workout protocol and bumping your daily carb ceiling by +30g on training days.",
+        "time": "10:30 AM",
+        "status": "read"
+      },
+      {
+        "id": "m1_4",
+        "sender": "client",
+        "text": "Understood! Loading the new macro target now. Let's review in tomorrow's check-in call.",
+        "time": "10:44 AM",
+        "status": "delivered"
+      }
+    ]
+  },
+  {
+    "id": "conv_2",
+    "clientId": "c3",
+    "clientName": "Imran Sheikh",
+    "company": "Northline Cargo",
+    "focus": "Tier 1 Biometrics & Metabolic Reset",
+    "initials": "IS",
+    "lastMessage": "Got the electrolyte packs packed. Ready for week 12!",
+    "date": "08:15 AM",
+    "status": "Active",
+    "unreadCount": 1,
+    "messages": [
+      {
+        "id": "m2_1",
+        "sender": "coach",
+        "text": "Imran, fasting blood glucose hovered around 92 mg/dL all week. Outstanding progress on insulin sensitivity and circadian meal timing.",
+        "time": "Yesterday",
+        "status": "read"
+      },
+      {
+        "id": "m2_2",
+        "sender": "client",
+        "text": "Thanks coach! Travel schedule in Dubai next week. Any adjustments for airport dining and hotel breakfasts?",
+        "time": "07:50 AM",
+        "status": "read"
+      },
+      {
+        "id": "m2_3",
+        "sender": "coach",
+        "text": "Stick to time-restricted feeding until 1 PM, then prioritize lean protein and avocado greens. Keep hydrated with sodium/potassium packs.",
+        "time": "08:05 AM",
+        "status": "read"
+      },
+      {
+        "id": "m2_4",
+        "sender": "client",
+        "text": "Got the electrolyte packs packed. Ready for week 12!",
+        "time": "08:15 AM",
+        "status": "delivered"
+      }
+    ]
+  },
+  {
+    "id": "conv_3",
+    "clientId": "c8",
+    "clientName": "Marcus Kane",
+    "company": "Kane Athletics",
+    "focus": "Hypertrophy Architecture • Week 8",
+    "initials": "MK",
+    "lastMessage": "Sleep score was 89 last night. On it coach.",
+    "date": "Yesterday",
+    "status": "Active",
+    "unreadCount": 0,
+    "messages": [
+      {
+        "id": "m3_1",
+        "sender": "client",
+        "text": "Bench press plateau broke today! Hit 140kg for 3 clean reps at RPE 8.5.",
+        "time": "Yesterday · 03:10 PM",
+        "status": "read"
+      },
+      {
+        "id": "m3_2",
+        "sender": "coach",
+        "text": "Huge milestone Marcus. The +200 kcal surplus and post-workout amino timing are paying dividends.",
+        "time": "Yesterday · 03:40 PM",
+        "status": "read"
+      },
+      {
+        "id": "m3_3",
+        "sender": "coach",
+        "text": "Keep sleep duration strictly above 7.5 hours this weekend to consolidate the CNS adaptation.",
+        "time": "Yesterday · 03:42 PM",
+        "status": "read"
+      },
+      {
+        "id": "m3_4",
+        "sender": "client",
+        "text": "Sleep score was 89 last night. On it coach.",
+        "time": "Yesterday · 04:05 PM",
+        "status": "read"
+      }
+    ]
+  },
+  {
+    "id": "conv_4",
+    "clientId": "c9",
+    "clientName": "Sophia Laurent",
+    "company": "Laurent Studio",
+    "focus": "Longevity & Cellular Repair",
+    "initials": "SL",
+    "lastMessage": "Phenomenal biomarker response to the omega-3 index optimization.",
+    "date": "Nov 15",
+    "status": "Offline",
+    "unreadCount": 0,
+    "messages": [
+      {
+        "id": "m4_1",
+        "sender": "coach",
+        "text": "Sophia, your latest blood work lipid subfractions and hs-CRP are uploaded into your Documents tab.",
+        "time": "Nov 15 · 11:20 AM",
+        "status": "read"
+      },
+      {
+        "id": "m4_2",
+        "sender": "client",
+        "text": "Just reviewed the report with my physician. Systemic inflammation dropped below 0.5 mg/L!",
+        "time": "Nov 15 · 11:45 AM",
+        "status": "read"
+      },
+      {
+        "id": "m4_3",
+        "sender": "coach",
+        "text": "Phenomenal biomarker response to the omega-3 index optimization. We maintain current dosing through Q1.",
+        "time": "Nov 15 · 12:00 PM",
+        "status": "read"
+      }
+    ]
+  },
+  {
+    "id": "conv_5",
+    "clientId": "c4",
+    "clientName": "Alexander Wright",
+    "company": "Wright Labs",
+    "focus": "Body Recomposition & Lean Mass",
+    "initials": "AW",
+    "lastMessage": "Yes Alex, 12h water-only fast. Let's compare VAT delta against baseline.",
+    "date": "Nov 14",
+    "status": "Offline",
+    "unreadCount": 0,
+    "messages": [
+      {
+        "id": "m5_1",
+        "sender": "client",
+        "text": "Morning coach, DEXA scan scheduled for Friday 8 AM. Fasted state as usual?",
+        "time": "Nov 14 · 08:30 AM",
+        "status": "read"
+      },
+      {
+        "id": "m5_2",
+        "sender": "coach",
+        "text": "Yes Alex, 12h water-only fast. Let's compare VAT delta against baseline.",
+        "time": "Nov 14 · 08:45 AM",
+        "status": "read"
+      }
+    ]
+  }
+]
